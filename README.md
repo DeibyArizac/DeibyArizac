@@ -1,58 +1,94 @@
-# 👋 Hi, I'm Deiby Ariza
+# 👋 Hola, soy Deiby Ariza
 
-🚀 Data Engineer · AI Automation Architect · QA Automation · Electronics Engineer
+**Data Engineer | Python Developer | AI Automation Architect | QA Automation | Electronics Engineer**
 
----
-
-## 👨‍💻 Sobre mí
-
-Soy un ingeniero enfocado en construir soluciones de datos, automatización e inteligencia artificial **que funcionan en producción**, se escalan rápido y se integran con herramientas reales de negocio.
-
-Diseño sistemas que extraen valor de los datos, automatizan tareas repetitivas y toman decisiones inteligentes sin intervención humana.
+📍 Bucaramanga, Colombia  
+📫 [LinkedIn](https://linkedin.com/in/deibyariza) · [Sitio web](https://zyntrasystems.com) · deibyarizac@gmail.com  
 
 ---
 
-## 🔧 Lo que sé hacer
+## 🧠 ¿Quién soy?
 
-- 🔁 **ETL a gran escala** con AWS Glue, Lambda, S3, Athena, DynamoDB y OpenSearch
-- 🧠 **Automatización inteligente con IA** usando Python, FastAPI, OpenAI API y modelos LLM
-- 🕸️ **Scraping orquestado** con Playwright, Selenium, BeautifulSoup + control de errores y rotación
-- 🧪 **QA Automation** con Puppeteer, GitHub Actions, pipelines de validación continua
-- ⚡ **Procesamiento de datos en tiempo real** con Polars, Parquet, SQLite, Pandas optimizado
-- 📈 **Análisis reproducible y escalable**, con foco en costos bajos y monitoreo desde el día 1
+Soy un ingeniero multidisciplinario con enfoque en crear soluciones **automatizadas, escalables y basadas en datos reales**. Tengo experiencia tanto en proyectos empresariales como en productos propios que involucran scraping masivo, ETL, predicción, dashboards y arquitectura serverless sobre AWS.
+
+Trabajo con mentalidad de producto: cada línea de código debe resolver un problema y generar valor.
 
 ---
 
-## 🧰 Tecnologías que domino
+## ⚒️ Skills Técnicos
 
-| Backend | Datos | Web Automation | Infraestructura |
-|--------|-------|----------------|------------------|
-| Python | SQL, Polars | Playwright, Puppeteer | AWS (Lambda, S3, DynamoDB, Glue) |
-| FastAPI | Parquet, Pandas | Selenium, BeautifulSoup | GitHub Actions, Docker |
-| OpenAI API | OpenSearch | FFmpeg, OCR | Terraform (básico) |
+### 🧩 Lenguajes y Frameworks
+- 🐍 Python (avanzado)
+- 📦 Pandas, Polars, Numpy
+- 🔄 FastAPI, Flask
+- ⚙️ POO y programación modular
+- 📜 SQL, PostgreSQL, MySQL, SQLite
+- 🧪 Selenium, BeautifulSoup, Playwright
+
+### ☁️ Cloud & Data Infrastructure
+- **AWS**: Lambda, S3, Glue, DynamoDB, Athena, OpenSearch
+- **Parquet**, JSON, CSV
+- **CI/CD**: GitHub Actions
+- **Docker** (contenedores básicos)
+
+### 📊 Data Science & Automatización
+- Análisis estadístico
+- Minería y mantenimiento de datos
+- Automatización con IA (OpenAI, OCR, NLP)
+- Web scraping robusto y orquestado
+- Machine Learning básico (clasificación, regresión)
+
+### 🛠️ Herramientas y otros
+- 🧪 Jupyter, Anaconda, VSCode
+- 📊 Power BI
+- 🧠 MongoDB, JSON
+- 🧩 Microsoft Office
 
 ---
 
-## 💼 Proyectos destacados
+## 🧪 Aptitudes profesionales
+
+- 🔍 Atención al detalle y resolución de problemas complejos  
+- 👥 Liderazgo técnico y trabajo colaborativo  
+- 🚀 Entregas rápidas con enfoque en valor  
+- 🧠 Creatividad aplicada a sistemas inteligentes  
+- 🧰 Diseño de arquitectura de datos eficiente  
+- 📦 Mantenimiento y escalado de soluciones en producción
+
+---
+
+## 📌 Proyectos destacados
 
 ### 🔊 Real-Time Audio Monitoring  
-> Seguimiento de +70 emisoras en 10 países con FFmpeg, AWS y extracción de metadatos.  
-> Integrado a base de datos DynamoDB + consultas con Athena.
+🎧 Detección de canciones y metadatos desde +70 emisoras usando FFmpeg + AWS.  
+🧱 Infraestructura: Lambda, DynamoDB, Athena, Glue, S3.
 
 ### 🧑‍🎤 Artist Intelligence Scraper  
-> Recolector automatizado de perfiles públicos y redes sociales para +500k artistas.  
-> Matching de imágenes con lógica de IA. Ideal para A&R, PR, analytics.
+🎨 Scraping masivo de perfiles de artistas (500k+) y redes sociales con imagen y datos de países.  
+📂 Matching automatizado, OCR y procesamiento de imágenes.
 
 ### ⚙️ QA Automation Pipelines  
-> Pipelines en CI/CD con validaciones automáticas, alertas y pruebas de ingestión.
+📋 Automatización de validaciones para ingestión de datos, con pruebas y reporting continuo vía GitHub Actions.
 
-### 📡 DataOps with AWS  
-> Ingesta modular, cleaning y enriquecimiento de datos en streaming con escalado horizontal.
+### 📡 DataOps: Ingesta modular de datos  
+🔁 Captura de flujos en tiempo real con almacenamiento eficiente en Parquet.  
+🔎 Dashboards de monitoreo y seguimiento de calidad.
 
 ---
 
-## 📫 Let’s Connect
+## 📈 En resumen...
 
-- 🔗 [LinkedIn](https://linkedin.com/in/deibyariza)
-- 🌐 [Website](https://zyntrasystems.com)
-- 📧 deibyarizac@gmail.com
+🧠 Combinación de ingeniería de datos + automatización + visión de producto  
+🧰 Sólido stack en Python y AWS  
+📊 Visual, reproducible y orientado al valor  
+🎯 Lista para producción
+
+---
+
+## 📫 Conecta conmigo
+
+📍 Colombia | 🌎 Remoto internacional  
+📬 **Correo**: deibyarizac@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/deibyariza)  
+🌐 [Sitio web](https://zyntrasystems.com)
+
