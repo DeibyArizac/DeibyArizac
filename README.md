@@ -71,10 +71,23 @@ I lead and develop pipelines that connect APIs, structured/unstructured data, an
 
 ---
 
+## 🌟 Featured Repositories
+
+### 🚦 [Traffic Predictor](https://github.com/DeibyArizac/traffic-predictor)
+> Real-time traffic prediction using Prophet + Streamlit  
+> Forecasts traffic patterns using weather, holidays, and time-of-day variables  
+🔗 [Live Demo](https://traffic-predictor-wy7xfs8zpac8ury9634yf8.streamlit.app/)
+
+### 🛡️ [Fraud Detector](https://github.com/DeibyArizac/fraud-detector)
+> End-to-end machine learning pipeline for credit card fraud detection  
+> Built with XGBoost, FastAPI, and production-ready practices  
+🔍 Focused on high precision, recall balance, and AUC optimization
+
+---
+
 ## 📬 Let’s Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/deibyariza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
   <a href="mailto:deibyarizac@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://zyntrasystems.com"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox-browser"></a>
 </p>
