@@ -1,94 +1,68 @@
-# 👋 Hola, soy Deiby Ariza
-
-**Data Engineer | Python Developer | AI Automation Architect | QA Automation | Electronics Engineer**
-
-📍 Bucaramanga, Colombia  
-📫 [LinkedIn](https://linkedin.com/in/deibyariza) · [Sitio web](https://zyntrasystems.com) · deibyarizac@gmail.com  
+<h1 align="center">Hi 👋 I'm Deiby Ariza</h1>
+<h3 align="center">Data Engineer · Python Developer · Automation Architect · Electronics Engineer</h3>
 
 ---
 
-## 🧠 ¿Quién soy?
-
-Soy un ingeniero multidisciplinario con enfoque en crear soluciones **automatizadas, escalables y basadas en datos reales**. Tengo experiencia tanto en proyectos empresariales como en productos propios que involucran scraping masivo, ETL, predicción, dashboards y arquitectura serverless sobre AWS.
-
-Trabajo con mentalidad de producto: cada línea de código debe resolver un problema y generar valor.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&size=22&center=true&vCenter=true&width=600&lines=Building+Smart+Data+Pipelines...;Automating+Everything+With+Python+and+AI...;Scaling+Intelligent+Bots+in+Production..." />
+</p>
 
 ---
 
-## ⚒️ Skills Técnicos
+## 🚀 Tech Stack
 
-### 🧩 Lenguajes y Frameworks
-- 🐍 Python (avanzado)
-- 📦 Pandas, Polars, Numpy
-- 🔄 FastAPI, Flask
-- ⚙️ POO y programación modular
-- 📜 SQL, PostgreSQL, MySQL, SQLite
-- 🧪 Selenium, BeautifulSoup, Playwright
-
-### ☁️ Cloud & Data Infrastructure
-- **AWS**: Lambda, S3, Glue, DynamoDB, Athena, OpenSearch
-- **Parquet**, JSON, CSV
-- **CI/CD**: GitHub Actions
-- **Docker** (contenedores básicos)
-
-### 📊 Data Science & Automatización
-- Análisis estadístico
-- Minería y mantenimiento de datos
-- Automatización con IA (OpenAI, OCR, NLP)
-- Web scraping robusto y orquestado
-- Machine Learning básico (clasificación, regresión)
-
-### 🛠️ Herramientas y otros
-- 🧪 Jupyter, Anaconda, VSCode
-- 📊 Power BI
-- 🧠 MongoDB, JSON
-- 🧩 Microsoft Office
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-orange?style=flat-square&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb" />
+  <img src="https://img.shields.io/badge/Parquet-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Polars-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=microsoftedge" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium" />
+  <img src="https://img.shields.io/badge/OpenSearch-005571?style=flat-square" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-yellowgreen?style=flat-square" />
+</p>
 
 ---
 
-## 🧪 Aptitudes profesionales
+## 🧠 About Me
 
-- 🔍 Atención al detalle y resolución de problemas complejos  
-- 👥 Liderazgo técnico y trabajo colaborativo  
-- 🚀 Entregas rápidas con enfoque en valor  
-- 🧠 Creatividad aplicada a sistemas inteligentes  
-- 🧰 Diseño de arquitectura de datos eficiente  
-- 📦 Mantenimiento y escalado de soluciones en producción
+- 🔁 I build modular, scalable ETL pipelines (Parquet + Polars + Glue + Athena)
+- 🤖 I automate entire workflows with FastAPI, Selenium, Playwright, and OpenAI
+- 🧪 I design and validate QA pipelines in GitHub Actions
+- 🔊 I track and analyze real-time audio streams from radio stations
+- 📡 I manage intelligent data ingestion from dynamic sources
 
 ---
 
-## 📌 Proyectos destacados
+## 💼 Highlight Projects
 
-### 🔊 Real-Time Audio Monitoring  
-🎧 Detección de canciones y metadatos desde +70 emisoras usando FFmpeg + AWS.  
-🧱 Infraestructura: Lambda, DynamoDB, Athena, Glue, S3.
+### 🎧 Real-Time Audio Monitoring  
+> FFmpeg + AWS Lambda + DynamoDB + Athena pipeline for tracking songs across 70+ radio stations.
 
 ### 🧑‍🎤 Artist Intelligence Scraper  
-🎨 Scraping masivo de perfiles de artistas (500k+) y redes sociales con imagen y datos de países.  
-📂 Matching automatizado, OCR y procesamiento de imágenes.
+> 500k+ artist profiles scraped and enriched across 13 countries. Includes social metadata, image matching and deduplication.
 
 ### ⚙️ QA Automation Pipelines  
-📋 Automatización de validaciones para ingestión de datos, con pruebas y reporting continuo vía GitHub Actions.
-
-### 📡 DataOps: Ingesta modular de datos  
-🔁 Captura de flujos en tiempo real con almacenamiento eficiente en Parquet.  
-🔎 Dashboards de monitoreo y seguimiento de calidad.
+> GitHub Actions CI for data ingestion validation, schema testing and fast feedback loops.
 
 ---
 
-## 📈 En resumen...
+## 📊 GitHub Activity
 
-🧠 Combinación de ingeniería de datos + automatización + visión de producto  
-🧰 Sólido stack en Python y AWS  
-📊 Visual, reproducible y orientado al valor  
-🎯 Lista para producción
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeibyArizac&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeibyArizac&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeibyArizac&theme=react-dark" />
+</p>
 
 ---
 
-## 📫 Conecta conmigo
+## 📫 Let's Connect
 
-📍 Colombia | 🌎 Remoto internacional  
-📬 **Correo**: deibyarizac@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/deibyariza)  
-🌐 [Sitio web](https://zyntrasystems.com)
-
+<p align="center">
+  <a href="https://linkedin.com/in/deibyariza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:deibyarizac@gmail.com"><img src="https://img.shields.io/badge/Gmail-DB4437?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://zyntrasystems.com"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=firefox-browser"></a>
+</p>
