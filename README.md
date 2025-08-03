@@ -17,10 +17,6 @@
 
 Hi! I'm **Deiby Ariza**, an **AI Project Manager**, **Data Scientist**, and **Machine Learning Engineer** with a strong foundation in **Electronic Engineering**. With over 3 years of experience in high-impact environments, I’ve led **AI-driven software development**, managed end-to-end **technical projects**, and delivered real-world ML solutions in **SaaS platforms** and **data-intensive applications**.
 
-📍 Based in Bucaramanga, Colombia  
-📞 +57 3159270954  
-📬 deibyarizac@gmail.com
-
 ---
 
 ## ∘ What I Do ∘
