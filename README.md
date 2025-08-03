@@ -58,20 +58,26 @@ Hi! I'm **Deiby Ariza**, an **AI Project Manager**, **Data Scientist**, and **Ma
 
 ## ∴ Career Highlights ∴
 
-- ✅ **AI Project Manager** for a venture-backed company: managed full-cycle delivery with 100% on-time execution.
-- ✅ Built **real-time scraping system** for 75+ data sources, ingesting 10M+ records.
-- ✅ Developed FastAPI microservices integrated with OpenSearch for low-latency analytics.
-- ✅ Scaled and maintained a production-grade SaaS platform with multi-AI backends.
-- ✅ Designed AWS serverless pipelines (Lambda, DynamoDB, S3) for ML deployment.
+- ✅ **AI Project Manager** for a venture-backed company: managed full-cycle delivery with 100% on-time execution.  
+- ✅ Built **real-time scraping system** for 75+ data sources, ingesting 10M+ records.  
+- ✅ Developed FastAPI microservices integrated with OpenSearch for low-latency analytics.  
+- ✅ Scaled and maintained a production-grade SaaS platform with multi-AI backends.  
+- ✅ Designed AWS serverless pipelines (Lambda, DynamoDB, S3) for ML deployment.  
 - ✅ Hands-on experience fine-tuning LLMs and integrating external APIs for business tasks.
 
 ---
 
 ## 🔍 Featured Projects
 
-- **Real-Time Audio Monitor** – Playwright-based system that scraped and indexed 75+ radio streams.  
-- **Fraud Detector API** – ML system deployed with FastAPI + Docker for inference.  
-- **Traffic Forecasting App** – Time-series forecasting (Prophet) with Streamlit for visualization.
+- 🔗 **[Real-Time Audio Monitor](https://github.com/DeibyArizac/radio-stream-monitoring)**  
+  Playwright-based system that scraped and indexed 75+ radio streams. Built for high-volume data ingestion with 10M+ records sent to OpenSearch and AWS S3.
+
+- 🔗 **[Fraud Detector API](https://github.com/DeibyArizac/fraud-detector)**  
+  End-to-end machine learning system for fraud detection. Built with FastAPI, XGBoost, and deployed using Docker.
+
+- 🔗 **[Traffic Forecasting App](https://github.com/DeibyArizac/traffic-predictor)**  
+  Time-series forecasting using Prophet and Streamlit to predict congestion trends.  
+  ▶️ **[Live Demo](https://traffic-predictor-wy7xfs8zpac8ury9634yf8.streamlit.app/)**
 
 ---
 
