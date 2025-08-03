@@ -70,7 +70,7 @@ Hi! I'm **Deiby Ariza**, an **AI Project Manager**, **Data Scientist**, and **Ma
 ## 🔍 Featured Projects
 
 - **Real-Time Audio Monitor** – Playwright-based system that scraped and indexed 75+ radio streams.  
-- **Fraud Detector API** – ML system deployed with FastAPI + XGBoost + Docker for inference.  
+- **Fraud Detector API** – ML system deployed with FastAPI + Docker for inference.  
 - **Traffic Forecasting App** – Time-series forecasting (Prophet) with Streamlit for visualization.
 
 ---
