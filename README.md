@@ -20,7 +20,7 @@ Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecno
     <td align="center" width="50%">
       <img src="assets/verboxi-logo.png" alt="Verboxi" height="50"/><br/><br/>
       <a href="https://verboxi.com"><strong>verboxi.com</strong></a><br/>
-      <sub>Tutor de ingles con IA conversacional. Streaming SSE con TTS paralelo (latencia menor a 2s), gamificacion completa (XP, streaks, 18 badges, SRS), pagos recurrentes con Wompi.</sub>
+      <sub>Tutor de ingles con IA conversacional. Streaming SSE con TTS paralelo (latencia menor a 2s), gamificacion completa (XP, streaks, 18 badges, SRS), pagos recurrentes integrados.</sub>
     </td>
     <td align="center" width="50%">
       <img src="assets/deplorix-logo.svg" alt="Deplorix" height="50"/><br/><br/>
