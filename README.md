@@ -17,18 +17,13 @@ Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecno
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <img src="assets/concertplaza-logo.png" alt="ConcertPlaza" height="40"/><br/><br/>
-      <a href="https://www.concertplaza.lat"><strong>concertplaza.lat</strong></a><br/>
-      <sub>Plataforma de IA musical — prediccion de hits con modelo propio (74.2% accuracy), analisis de audio, generacion con Suno, separacion de stems con Demucs, y mejora automatizada de canciones.</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/verboxi-logo.svg" alt="Verboxi" height="40"/><br/><br/>
+    <td align="center" width="50%">
+      <img src="assets/verboxi-logo.png" alt="Verboxi" height="50"/><br/><br/>
       <a href="https://verboxi.com"><strong>verboxi.com</strong></a><br/>
       <sub>Tutor de ingles con IA conversacional. Streaming SSE con TTS paralelo (latencia menor a 2s), gamificacion completa (XP, streaks, 18 badges, SRS), pagos recurrentes con Wompi.</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="assets/deplorix-logo.svg" alt="Deplorix" height="40"/><br/><br/>
+    <td align="center" width="50%">
+      <img src="assets/deplorix-logo.svg" alt="Deplorix" height="50"/><br/><br/>
       <a href="https://deplorix.com"><strong>deplorix.com</strong></a><br/>
       <sub>Generacion de documentos profesionales con IA. Multi-proveedor LLM (OpenAI, DeepSeek, Cloudflare AI), pipeline auto-fix de 5 intentos, edicion inteligente por secciones.</sub>
     </td>

@@ -1,0 +1,47 @@
+<svg viewBox="0 0 1584 396" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%%" y1="0%%" x2="100%%" y2="100%%">
+      <stop offset="0%%" stop-color="#0a0a0f"/>
+      <stop offset="40%%" stop-color="#0f0f1a"/>
+      <stop offset="100%%" stop-color="#0a0a0f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%%" y1="0%%" x2="100%%" y2="0%%">
+      <stop offset="0%%" stop-color="#6366f1"/>
+      <stop offset="50%%" stop-color="#818cf8"/>
+      <stop offset="100%%" stop-color="#6366f1"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e1e2e" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1584" height="396" fill="url(#bg)"/>
+  <rect width="1584" height="396" fill="url(#grid)"/>
+
+  <!-- Corner accents -->
+  <path d="M0 0 L80 0 L0 80 Z" fill="#6366f1" opacity="0.05"/>
+  <path d="M1584 396 L1504 396 L1584 316 Z" fill="#6366f1" opacity="0.05"/>
+
+  <!-- Subtle dots -->
+  <circle cx="120" cy="90" r="1.5" fill="#6366f1" opacity="0.25"/>
+  <circle cx="300" cy="300" r="1" fill="#818cf8" opacity="0.2"/>
+  <circle cx="500" cy="60" r="1" fill="#a78bfa" opacity="0.15"/>
+  <circle cx="1400" cy="80" r="1.5" fill="#818cf8" opacity="0.2"/>
+  <circle cx="1200" cy="320" r="1" fill="#6366f1" opacity="0.25"/>
+
+  <!-- Name -->
+  <text x="792" y="140" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="800" fill="#f1f5f9" letter-spacing="-2">Deiby Ariza</text>
+
+  <!-- Title -->
+  <text x="792" y="190" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="400" fill="#94a3b8" letter-spacing="2">Senior AI Engineer</text>
+
+  <!-- Tagline -->
+  <text x="792" y="240" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="600" fill="#818cf8" font-style="italic" letter-spacing="1">Lidero y construyo plataformas inteligentes</text>
+
+  <!-- Tech keywords -->
+  <text x="792" y="300" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="#6366f1" letter-spacing="4" opacity="0.8">LLMs        RAG        Kubernetes        AWS        Full-Stack AI</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="390" width="1584" height="6" fill="url(#accent)" opacity="0.7"/>
+</svg>
