@@ -25,7 +25,7 @@ Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecno
     <td align="center" width="50%">
       <img src="assets/deplorix-logo.svg" alt="Deplorix" height="50"/><br/><br/>
       <a href="https://deplorix.com"><strong>deplorix.com</strong></a><br/>
-      <sub>Generacion de documentos profesionales con IA. Multi-proveedor LLM (OpenAI, DeepSeek, Cloudflare AI), pipeline auto-fix de 5 intentos, edicion inteligente por secciones.</sub>
+      <sub>Generacion de documentos profesionales con IA. Multi-proveedor LLM, pipeline auto-fix de 5 intentos, edicion inteligente por secciones.</sub>
     </td>
   </tr>
 </table>
