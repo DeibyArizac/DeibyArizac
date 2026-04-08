@@ -9,7 +9,7 @@
 
 ---
 
-Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecnologia. Construyo sistemas de inteligencia artificial que llegan a produccion — plataformas documentales con LLMs en entornos air-gapped sobre GPUs NVIDIA H200, pipelines RAG, modelos de ML entrenados desde cero, y 3 productos SaaS propios en produccion. Lidero equipos tecnicos y diseno arquitecturas que escalan.
+Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecnologia. Construyo sistemas de inteligencia artificial que llegan a produccion — plataformas documentales con LLMs en entornos air-gapped sobre GPUs NVIDIA H200, pipelines RAG, modelos de ML entrenados desde cero, productos propios en produccion y una empresa de tecnologia (Deplorix). Lidero equipos tecnicos y diseno arquitecturas que escalan.
 
 ---
 
@@ -25,7 +25,7 @@ Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecno
     <td align="center" width="50%">
       <br/><img src="assets/deplorix-logo.svg" alt="Deplorix" height="50"/><br/><br/>
       <a href="https://deplorix.com"><strong>deplorix.com</strong></a><br/>
-      <sub>Generacion de documentos profesionales con IA. Multi-proveedor LLM, pipeline auto-fix de 5 intentos, edicion inteligente por secciones.</sub>
+      <sub>Software a medida, inteligencia artificial y ciberseguridad para empresas. 50+ proyectos entregados, 99.9% uptime. Desarrollo de plataformas, integracion de IA, chatbots 24/7 e infraestructura cloud.</sub>
     </td>
   </tr>
 </table>
