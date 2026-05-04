@@ -23,9 +23,9 @@ Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecno
       <sub>Tutor de ingles con IA conversacional. Streaming SSE con TTS paralelo (latencia menor a 2s), gamificacion completa (XP, streaks, 18 badges, SRS), pagos recurrentes integrados.</sub>
     </td>
     <td align="center" width="50%">
-      <br/><img src="assets/deplorix-icon.svg" alt="Deplorix" height="50"/><br/><br/>
-      <a href="https://deplorix.com"><strong>deplorix.com</strong></a><br/>
-      <sub>Software a medida, inteligencia artificial y ciberseguridad para empresas. 50+ proyectos entregados, 99.9% uptime. Desarrollo de plataformas, integracion de IA, chatbots 24/7 e infraestructura cloud.</sub>
+      <br/><img src="assets/buholabs-icon.svg" alt="Buho Labs" height="50"/><br/><br/>
+      <a href="https://buholabs.com"><strong>buholabs.com</strong></a><br/>
+      <sub>SaaS de analytics para tiendas online en LatAm. Grabacion de sesion (rrweb) auto-hosteada, deteccion de errores frontend, heatmaps, reporte diario por correo. Cloudflare Workers + D1 + R2.</sub>
     </td>
   </tr>
 </table>
