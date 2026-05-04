@@ -20,12 +20,12 @@ Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecno
     <td align="center" width="50%">
       <br/><img src="assets/verboxi-logo.png" alt="Verboxi" height="50"/><br/><br/>
       <a href="https://verboxi.com"><strong>verboxi.com</strong></a><br/>
-      <sub>Tutor de ingles con IA conversacional. Streaming SSE con TTS paralelo (latencia menor a 2s), gamificacion completa (XP, streaks, 18 badges, SRS), pagos recurrentes integrados.</sub>
+      <sub>Aprende ingles hablando con una IA que te corrige al instante. Sin clases, sin horarios, a tu ritmo. Vas avanzando con metas y recompensas que te enganchan a practicar todos los dias.</sub>
     </td>
     <td align="center" width="50%">
       <br/><img src="assets/buholabs-icon.svg" alt="Buho Labs" height="50"/><br/><br/>
       <a href="https://buholabs.com"><strong>buholabs.com</strong></a><br/>
-      <sub>SaaS de analytics para tiendas online en LatAm. Grabacion de sesion (rrweb) auto-hosteada, deteccion de errores frontend, heatmaps, reporte diario por correo. Cloudflare Workers + D1 + R2.</sub>
+      <sub>Mira lo que hacen tus visitantes en tu tienda online: donde dan clic, donde se atascan, que errores ven, en que momento se van sin comprar. Cada manana te llega un correo con lo que tenes que arreglar primero.</sub>
     </td>
   </tr>
 </table>
