@@ -9,7 +9,7 @@
 
 ---
 
-Ingeniero electrónico (UIS, acreditada ABET) con +4 años en IA/ML y +10 en tecnología. Construyo sistemas de inteligencia artificial que llegan a producción — plataformas documentales con LLMs en entornos air-gapped sobre GPUs NVIDIA H200, pipelines RAG, modelos de ML entrenados desde cero, productos propios en producción y una empresa de tecnología (Deplorix). Lidero equipos técnicos y diseño arquitecturas que escalan.
+Ingeniero electrónico (UIS, acreditada ABET) con +5 años en IA/ML y +10 en tecnología. Construyo sistemas de inteligencia artificial que llegan a producción — plataformas documentales con LLMs en entornos air-gapped sobre GPUs NVIDIA H200, pipelines RAG, modelos de ML entrenados desde cero, productos propios en producción y una empresa de tecnología (Deplorix). Lidero equipos técnicos y diseño arquitecturas que escalan.
 
 ---
 
@@ -23,7 +23,7 @@ Ingeniero electrónico (UIS, acreditada ABET) con +4 años en IA/ML y +10 en tec
       <sub>Aprende inglés hablando con una IA que te corrige al instante. Sin clases, sin horarios, a tu ritmo. Vas avanzando con metas y recompensas que te enganchan a practicar todos los días.</sub>
     </td>
     <td align="center" width="50%">
-      <br/><img src="assets/buholabs-icon.svg" alt="Buho Labs" height="50"/><br/><br/>
+      <br/><img src="assets/buholabs-logo.png" alt="Búho Labs" height="56"/><br/><br/>
       <a href="https://buholabs.com"><strong>buholabs.com</strong></a><br/>
       <sub>Mira lo que hacen tus visitantes en tu tienda online: dónde dan clic, dónde se atascan, qué errores ven, en qué momento se van sin comprar. Cada mañana te llega un correo con lo que tienes que arreglar primero.</sub>
     </td>
