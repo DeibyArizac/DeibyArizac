@@ -81,7 +81,7 @@ Pipeline completo: Whisper transcribe la letra, GPT la mejora con feedback de 3 
 ## Trayectoria
 
 **BIT512 Soluciones TI** · Líder de IA / Ingeniero Senior de IA *(2025 - presente)*<br/>
-10+ proyectos: Eclipse, JANUS, Hydra, Nexus, Sortex, Compensar HCM, plataformas gubernamentales.
+10+ proyectos de IA y datos para clientes institucionales y privados, bajo acuerdos de confidencialidad.
 
 **IncubApp Venture Capital** · AI Technical Project Manager *(2024 - 2025)*<br/>
 Proyectos de IA para startups del portafolio. 100% de entregas a tiempo.
