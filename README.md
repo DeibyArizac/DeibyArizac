@@ -9,7 +9,7 @@
 
 ---
 
-Ingeniero electrónico (UIS, acreditada ABET) con +5 años en IA/ML y +10 en tecnología. Construyo sistemas de inteligencia artificial que llegan a producción — plataformas documentales con LLMs en entornos air-gapped sobre GPUs NVIDIA H200, pipelines RAG, modelos de ML entrenados desde cero, productos propios en producción y una empresa de tecnología (Deplorix). Lidero equipos técnicos y diseño arquitecturas que escalan.
+Ingeniero electrónico (UIS, acreditada ABET) con +5 años en IA/ML y +10 en tecnología. Construyo sistemas de inteligencia artificial que llegan a producción: plataformas documentales con LLMs en entornos air-gapped sobre GPUs NVIDIA H200, pipelines RAG, modelos de ML entrenados desde cero y productos propios en producción. Lidero equipos técnicos y diseño arquitecturas que escalan.
 
 ---
 
@@ -60,17 +60,17 @@ Ingeniero electrónico (UIS, acreditada ABET) con +5 años en IA/ML y +10 en tec
 
 ### Modelos de ML propios
 
-**Hit Song Predictor** — Modelo ensemble (MLP + CNN + XGBoost) entrenado desde cero sobre 83 features de audio extraídas con librosa + espectrogramas mel 128x128 para la CNN. 74.2% de accuracy prediciendo éxito de canciones usando solo audio, sin metadata de Spotify. Desplegado en AWS Lambda con inferencia en tiempo real.
+**Hit Song Predictor**: modelo ensemble (MLP + CNN + XGBoost) entrenado desde cero sobre 83 features de audio extraídas con librosa + espectrogramas mel 128x128 para la CNN. 74.2% de accuracy prediciendo éxito de canciones usando solo audio, sin metadata de Spotify. Desplegado en AWS Lambda con inferencia en tiempo real.
 
-**Sistema de recomendación musical** — Modelos entrenados sobre +5M registros de artistas. Indexación de +450,000 perfiles en OpenSearch con búsquedas en menos de 50ms. Endpoints de inferencia en FastAPI en menos de 100ms.
+**Sistema de recomendación musical**: modelos entrenados sobre +5M registros de artistas. Indexación de +450,000 perfiles en OpenSearch con búsquedas en menos de 50ms. Endpoints de inferencia en FastAPI en menos de 100ms.
 
 ### Sistemas de IA empresariales
 
-**Plataforma de inteligencia documental** — Para el sector defensa de Colombia. LLMs locales desplegados on-premise en entornos air-gapped sobre 4x NVIDIA H200 GPUs, pipeline RAG con pgvector, streaming SSE, orquestación en Kubernetes (K3s). Rescate de un sistema de 2.3M documentos en cluster de 6 nodos tras falla catastrófica de almacenamiento — 99.5% uptime post-estabilizacion.
+**Plataforma de inteligencia documental**: para el sector defensa de Colombia. LLMs locales desplegados on-premise en entornos air-gapped sobre 4x NVIDIA H200 GPUs, pipeline RAG con pgvector, streaming SSE, orquestación en Kubernetes (K3s). Rescate de un sistema de 2.3M documentos en cluster de 6 nodos tras falla catastrófica de almacenamiento, con 99.5% de uptime post-estabilizacion.
 
-**Plataformas de IA gubernamentales** — RAG multi-proveedor (OpenAI, Azure OpenAI, Ollama, vLLM), prototipos para entidades de seguridad, encuestas ISO 9001, gestión interna.
+**Plataformas de IA gubernamentales**: RAG multi-proveedor (OpenAI, Azure OpenAI, Ollama, vLLM), prototipos para entidades de seguridad, encuestas ISO 9001, gestión interna.
 
-**Scraper de gran escala** — Ingesta de +10M registros de +75 emisoras de radio en OpenSearch y S3.
+**Scraper de gran escala**: ingesta de +10M registros de +75 emisoras de radio en OpenSearch y S3.
 
 ### Mega Pipeline de audio (ConcertPlaza)
 
@@ -80,21 +80,21 @@ Pipeline completo: Whisper transcribe la letra, GPT la mejora con feedback de 3 
 
 ## Trayectoria
 
-**BIT512 Soluciones TI** — Líder de IA / Ingeniero Senior de IA *(2025 - presente)*<br/>
+**BIT512 Soluciones TI** · Líder de IA / Ingeniero Senior de IA *(2025 - presente)*<br/>
 10+ proyectos: Eclipse, JANUS, Hydra, Nexus, Sortex, Compensar HCM, plataformas gubernamentales.
 
-**IncubApp Venture Capital** — AI Technical Project Manager *(2024 - 2025)*<br/>
+**IncubApp Venture Capital** · AI Technical Project Manager *(2024 - 2025)*<br/>
 Proyectos de IA para startups del portafolio. 100% de entregas a tiempo.
 
-**IncubApp Venture Capital** — Data Scientist y ML Engineer *(2021 - 2024)*<br/>
+**IncubApp Venture Capital** · Data Scientist y ML Engineer *(2021 - 2024)*<br/>
 Modelos de recomendación, scraping masivo, fine-tuning de LLMs, inferencia ML en producción.
 
 ---
 
 ## Formación
 
-**Ingeniería Electrónica** — Universidad Industrial de Santander (acreditada ABET)<br/>
-**Técnico en Sistemas** — SENA<br/>
+**Ingeniería Electrónica** · Universidad Industrial de Santander (acreditada ABET)<br/>
+**Técnico en Sistemas** · SENA<br/>
 AWS Cloud Practitioner · Cisco IoT y Networking · Web App Security
 
 ---
