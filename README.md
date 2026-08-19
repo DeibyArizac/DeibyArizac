@@ -18,14 +18,14 @@ Ingeniero electrónico (UIS, acreditada ABET) con +5 años en IA/ML y +10 en tec
 <table>
   <tr>
     <td align="center" width="50%">
+      <br/><img src="assets/buholabs-logo.png" alt="Búho Labs" height="56"/><br/><br/>
+      <a href="https://buholabs.com"><strong>buholabs.com</strong></a><br/>
+      <sub>Tu analista para tiendas online: qué campaña te vende, en qué paso pierdes clientes y cuánto dinero se te está yendo, con el video de cada visita. Cada mañana, un correo con lo que conviene arreglar primero.</sub>
+    </td>
+    <td align="center" width="50%">
       <br/><img src="assets/verboxi-logo.png" alt="Verboxi" height="50"/><br/><br/>
       <a href="https://verboxi.com"><strong>verboxi.com</strong></a><br/>
       <sub>Aprende inglés hablando con una IA que te corrige al instante. Sin clases, sin horarios, a tu ritmo. Vas avanzando con metas y recompensas que te enganchan a practicar todos los días.</sub>
-    </td>
-    <td align="center" width="50%">
-      <br/><img src="assets/buholabs-logo.png" alt="Búho Labs" height="56"/><br/><br/>
-      <a href="https://buholabs.com"><strong>buholabs.com</strong></a><br/>
-      <sub>Mira lo que hacen tus visitantes en tu tienda online: dónde dan clic, dónde se atascan, qué errores ven, en qué momento se van sin comprar. Cada mañana te llega un correo con lo que tienes que arreglar primero.</sub>
     </td>
   </tr>
 </table>
