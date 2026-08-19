@@ -95,7 +95,7 @@ Modelos de recomendación, scraping masivo, fine-tuning de LLMs, inferencia ML e
 
 **Ingeniería Electrónica** · Universidad Industrial de Santander (acreditada ABET)<br/>
 **Técnico en Sistemas** · SENA<br/>
-AWS Cloud Practitioner · Cisco IoT y Networking · Web App Security
+Oracle Cloud Infrastructure 2025 Certified Architect Associate · Cisco IoT y Networking · Web App Security
 
 ---
 
