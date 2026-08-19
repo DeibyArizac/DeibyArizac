@@ -9,30 +9,30 @@
 
 ---
 
-Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecnologia. Construyo sistemas de inteligencia artificial que llegan a produccion — plataformas documentales con LLMs en entornos air-gapped sobre GPUs NVIDIA H200, pipelines RAG, modelos de ML entrenados desde cero, productos propios en produccion y una empresa de tecnologia (Deplorix). Lidero equipos tecnicos y diseno arquitecturas que escalan.
+Ingeniero electrónico (UIS, acreditada ABET) con +4 años en IA/ML y +10 en tecnología. Construyo sistemas de inteligencia artificial que llegan a producción — plataformas documentales con LLMs en entornos air-gapped sobre GPUs NVIDIA H200, pipelines RAG, modelos de ML entrenados desde cero, productos propios en producción y una empresa de tecnología (Deplorix). Lidero equipos técnicos y diseño arquitecturas que escalan.
 
 ---
 
-## Productos en produccion
+## Productos en producción
 
 <table>
   <tr>
     <td align="center" width="50%">
       <br/><img src="assets/verboxi-logo.png" alt="Verboxi" height="50"/><br/><br/>
       <a href="https://verboxi.com"><strong>verboxi.com</strong></a><br/>
-      <sub>Aprende ingles hablando con una IA que te corrige al instante. Sin clases, sin horarios, a tu ritmo. Vas avanzando con metas y recompensas que te enganchan a practicar todos los dias.</sub>
+      <sub>Aprende inglés hablando con una IA que te corrige al instante. Sin clases, sin horarios, a tu ritmo. Vas avanzando con metas y recompensas que te enganchan a practicar todos los días.</sub>
     </td>
     <td align="center" width="50%">
       <br/><img src="assets/buholabs-icon.svg" alt="Buho Labs" height="50"/><br/><br/>
       <a href="https://buholabs.com"><strong>buholabs.com</strong></a><br/>
-      <sub>Mira lo que hacen tus visitantes en tu tienda online: donde dan clic, donde se atascan, que errores ven, en que momento se van sin comprar. Cada manana te llega un correo con lo que tenes que arreglar primero.</sub>
+      <sub>Mira lo que hacen tus visitantes en tu tienda online: dónde dan clic, dónde se atascan, qué errores ven, en qué momento se van sin comprar. Cada mañana te llega un correo con lo que tienes que arreglar primero.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Stack tecnologico
+## Stack tecnológico
 
 **IA / Machine Learning**
 
@@ -123,27 +123,27 @@ Ingeniero Electronico (UIS, acreditada ABET) con +4 anos en IA/ML y +10 en tecno
 
 ### Modelos de ML propios
 
-**Hit Song Predictor** — Modelo ensemble (MLP + CNN + XGBoost) entrenado desde cero sobre 83 features de audio extraidas con librosa + espectrogramas mel 128x128 para la CNN. 74.2% de accuracy prediciendo exito de canciones usando solo audio, sin metadata de Spotify. Desplegado en AWS Lambda con inferencia en tiempo real.
+**Hit Song Predictor** — Modelo ensemble (MLP + CNN + XGBoost) entrenado desde cero sobre 83 features de audio extraídas con librosa + espectrogramas mel 128x128 para la CNN. 74.2% de accuracy prediciendo éxito de canciones usando solo audio, sin metadata de Spotify. Desplegado en AWS Lambda con inferencia en tiempo real.
 
-**Sistema de recomendacion musical** — Modelos entrenados sobre +5M registros de artistas. Indexacion de +450,000 perfiles en OpenSearch con busquedas en menos de 50ms. Endpoints de inferencia en FastAPI en menos de 100ms.
+**Sistema de recomendación musical** — Modelos entrenados sobre +5M registros de artistas. Indexación de +450,000 perfiles en OpenSearch con búsquedas en menos de 50ms. Endpoints de inferencia en FastAPI en menos de 100ms.
 
 ### Sistemas de IA empresariales
 
-**Plataforma de inteligencia documental** — Para el sector defensa de Colombia. LLMs locales desplegados on-premise en entornos air-gapped sobre 4x NVIDIA H200 GPUs, pipeline RAG con pgvector, streaming SSE, orquestacion en Kubernetes (K3s). Rescate de un sistema de 2.3M documentos en cluster de 6 nodos tras falla catastrofica de almacenamiento — 99.5% uptime post-estabilizacion.
+**Plataforma de inteligencia documental** — Para el sector defensa de Colombia. LLMs locales desplegados on-premise en entornos air-gapped sobre 4x NVIDIA H200 GPUs, pipeline RAG con pgvector, streaming SSE, orquestación en Kubernetes (K3s). Rescate de un sistema de 2.3M documentos en cluster de 6 nodos tras falla catastrófica de almacenamiento — 99.5% uptime post-estabilizacion.
 
-**Plataformas de IA gubernamentales** — RAG multi-proveedor (OpenAI, Azure OpenAI, Ollama, vLLM), prototipos para entidades de seguridad, encuestas ISO 9001, gestion interna.
+**Plataformas de IA gubernamentales** — RAG multi-proveedor (OpenAI, Azure OpenAI, Ollama, vLLM), prototipos para entidades de seguridad, encuestas ISO 9001, gestión interna.
 
-**Scraper de gran escala** — Ingestion de +10M registros de +75 emisoras de radio en OpenSearch y S3.
+**Scraper de gran escala** — Ingesta de +10M registros de +75 emisoras de radio en OpenSearch y S3.
 
 ### Mega Pipeline de audio (ConcertPlaza)
 
-Pipeline completo: Whisper transcribe la letra, GPT la mejora con feedback de 3 agentes expertos IA (productor, ingeniero de mezcla, letrista), GPT construye prompt inteligente para Suno usando hit score + diagnostico + recomendaciones, Suno genera la cancion, Demucs separa stems, y se mezclan 2 versiones finales con los instrumentales mejorados. Todo orquestado en una sola Lambda de 15 minutos.
+Pipeline completo: Whisper transcribe la letra, GPT la mejora con feedback de 3 agentes expertos IA (productor, ingeniero de mezcla, letrista), GPT construye prompt inteligente para Suno usando hit score + diagnóstico + recomendaciones, Suno genera la canción, Demucs separa stems, y se mezclan 2 versiones finales con los instrumentales mejorados. Todo orquestado en una sola Lambda de 15 minutos.
 
 ---
 
 ## Trayectoria
 
-**BIT512 Soluciones TI** — Lider de IA / Ingeniero Senior de IA *(2025 - presente)*
+**BIT512 Soluciones TI** — Líder de IA / Ingeniero Senior de IA *(2025 - presente)*
 10+ proyectos: Eclipse, JANUS, Hydra, Nexus, Sortex, Compensar HCM, plataformas gubernamentales.
 
 **IncubApp Venture Capital** — AI Technical Project Manager *(2024 - 2025)*
@@ -154,10 +154,10 @@ Modelos de recomendacion, scraping masivo, fine-tuning de LLMs, inferencia ML en
 
 ---
 
-## Formacion
+## Formación
 
-**Ingenieria Electronica** — Universidad Industrial de Santander (acreditada ABET)
-**Tecnico en Sistemas** — SENA
+**Ingeniería Electrónica** — Universidad Industrial de Santander (acreditada ABET)
+**Técnico en Sistemas** — SENA
 AWS Cloud Practitioner | Cisco IoT y Networking | Web App Security
 
 ---
